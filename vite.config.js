@@ -1,11 +1,14 @@
 import { defineConfig } from "vite";
-
+import react from '@vitejs/plugin-react'
 export default defineConfig({
-  server: {
-    port: 7071,
-    // host: "0.0.0.0", // Bind to all interfaces (not just localhost)
-    strictPort: true,
-    // allowedHosts: "all",
-    allowedHosts: ['8990-39-63-27-56.ngrok-free.app']
+  // server: {
+  //   port: 7071,
+  //   strictPort: true,
+  //   allowedHosts: ['8990-39-63-27-56.ngrok-free.app']
+  // },
+  plugins: [react()],
+  base: "/", // ← REQUIRED for Vercel
+  build: {
+    outDir: "dist", // ← matches vercel.json
   },
 });
