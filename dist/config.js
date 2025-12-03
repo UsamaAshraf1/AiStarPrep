@@ -1,6 +1,0 @@
-window.env = {
-  VITE_API_URL: "",
-  VITE_PLATFORM_URL: "",
-  VITE_API_ENGROK: "",
-  VITE_STRIPE_PUBLISHABLE_KEY: "",
-};
