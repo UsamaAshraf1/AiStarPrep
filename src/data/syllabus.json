@@ -1,0 +1,1283 @@
+{
+    "syllabuses": [
+        {
+            "title": "A Level Accounting (9706)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 1",
+                        "duration": "1 hour",
+                        "marks": 30,
+                        "number_of_questions": 30,
+                        "content": "AS Level subject content (Financial and Cost & Management Accounting)",
+                        "paper_structure": "It has 30 multiple-choice questions, each carrying 1 mark."
+                    },
+                    "Fundamentals_of_Accounting": {
+                        "title": "Fundamentals of Accounting",
+                        "name": "Paper 2",
+                        "duration": "1 hour 45 minutes",
+                        "marks": 90,
+                        "number_of_questions": 4,
+                        "content": "AS Level subject content (Financial and Cost & Management Accounting)",
+                        "paper_structure": "It consists of 4 structured questions mix of multipart and single part, distribute 90 marks according to question complexity."
+                    }
+                },
+                "A-Level": {
+                    "Financial_Accounting": {
+                        "title": "Financial Accounting",
+                        "name": "Paper 3",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 75,
+                        "number_of_questions": 3,
+                        "content": "A Level Financial Accounting subject content",
+                        "paper_structure": "It has 3 structured questions, each carrying 25 marks."
+                    },
+                    "Cost_and_Management_Accounting": {
+                        "title": "Cost and Management Accounting",
+                        "name": "Paper 4",
+                        "duration": "1 hour",
+                        "marks": 50,
+                        "number_of_questions": 2,
+                        "content": "A Level Cost and Management Accounting subject content",
+                        "paper_structure": "It has 2 structured questions, distribute 50 marks equally"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Types of business entity",
+                    "The accounting system",
+                    "Accounting for non-current assets",
+                    "Reconciliation and verification",
+                    "Preparation of financial statements",
+                    "Analysis and communication of accounting information",
+                    "Costs and cost behaviour",
+                    "Traditional costing methods"
+                ],
+                "A-Level": [
+                    "Preparation of financial statements",
+                    "Regulatory and ethical considerations",
+                    "Business acquisition and merger",
+                    "Computerised accounting systems",
+                    "Analysis and communication of accounting information",
+                    "Activity based costing",
+                    "Standard costing",
+                    "Budgeting and budgetary control",
+                    "Investment appraisal"
+                ]
+            }
+        },
+        {
+            "title": "A Level Biology (9700)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 1",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 40,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                    },
+                    "AS-Level_Structured_Questions": {
+                        "title": "AS Level Structured Questions",
+                        "name": "Paper 2",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 60,
+                        "number_of_questions": 6,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It consists of 6 structured questions mix of multipart and single part, distribute 60 marks according to question complexity."
+                    },
+                    "Advanced_Practical_Skills": {
+                        "title": "Advanced Practical Skills",
+                        "name": "Paper 3",
+                        "duration": "2 hours",
+                        "marks": 40,
+                        "number_of_questions": 2,
+                        "content": "Practical skills (AS Level)",
+                        "paper_structure": "It consists of 2 practical skills question of multipart. distribute 40 marks equally"
+                    }
+                },
+                "A-Level": {
+                    "A-Level_Structured_Questions": {
+                        "title": "A Level Structured Questions",
+                        "name": "Paper 4",
+                        "duration": "2 hours",
+                        "marks": 100,
+                        "number_of_questions": 10,
+                        "content": "A Level syllabus content",
+                        "paper_structure": "It consists of 10 questions mix of multipart and single part, distribute 100 marks according to question complexity."
+                    },
+                    "Planning_Analysis_and_Evaluation": {
+                        "title": "Planning Analysis and Evaluation",
+                        "name": "Paper 5",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 30,
+                        "number_of_questions": 2,
+                        "content": "Practical skills (A Level)",
+                        "paper_structure": "It consists of 2 question of multipart, distribute 30 marks equally"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Cell structure",
+                    "Biological molecules",
+                    "Enzymes",
+                    "Cell membranes and transport",
+                    "The mitotic cell cycle",
+                    "Nucleic acids and protein synthesis",
+                    "Transport in plants",
+                    "Transport in mammals",
+                    "Gas exchange",
+                    "Infectious diseases",
+                    "Immunity"
+                ],
+                "A-Level": [
+                    "Energy and respiration",
+                    "Photosynthesis",
+                    "Homeostasis",
+                    "Control and coordination",
+                    "Inheritance",
+                    "Selection and evolution",
+                    "Classification, biodiversity and conservation",
+                    "Genetic technology"
+                ]
+            }
+        },
+        {
+            "title": "A Level Business (9609)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Business_Concepts_1": {
+                        "title": "Business Concepts 1",
+                        "name": "Paper 1",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 5,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It consists of five questions,First 4 question each worth 5 marks, and one essay question worth 20 marks."
+                    },
+                    "Business_Concepts_2": {
+                        "title": "Business Concepts 2",
+                        "name": "Paper 2",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 2,
+                        "content": "AS Level syllabus content (Topics 1.1–5.5)",
+                        "paper_structure": "It consists of 3 questions , distribute the 60 marks equally"
+                    }
+                },
+                "A-Level": {
+                    "Business_Decision-Making": {
+                        "title": "Business Decision-Making",
+                        "name": "Paper 3",
+                        "duration": "1 hour 45 minutes",
+                        "marks": 60,
+                        "number_of_questions": 5,
+                        "content": "A Level syllabus content (Topics 6.1–10.4, with AS Level assumed knowledge)",
+                        "paper_structure": "It has five questions: distribute 60 marks according question complexity"
+                    },
+                    "Business_Strategy": {
+                        "title": "Business Strategy",
+                        "name": "Paper 4",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 2,
+                        "content": "A Level syllabus content (Topics 6.1–10.4, with AS Level assumed knowledge)",
+                        "paper_structure": "It consists of 2 questions,distribute 40 marks equally"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Enterprise",
+                    "Business structure",
+                    "Size of business",
+                    "Business objectives",
+                    "Stakeholders in a business",
+                    "Human resource management",
+                    "Motivation",
+                    "Management",
+                    "The nature of marketing",
+                    "Market research",
+                    "The marketing mix",
+                    "The nature of operations",
+                    "Inventory management",
+                    "Capacity utilisation and outsourcing",
+                    "Business finance",
+                    "Sources of finance",
+                    "Forecasting and managing cash flows",
+                    "Costs",
+                    "Budgets"
+                ],
+                "A-Level": [
+                    "External influences on business activity",
+                    "Business strategy",
+                    "Organisational structure",
+                    "Business communication",
+                    "Leadership",
+                    "Human resource management strategy",
+                    "Marketing analysis",
+                    "Marketing strategy",
+                    "Location and scale",
+                    "Quality management",
+                    "Operations strategy",
+                    "Financial statements",
+                    "Analysis of published accounts",
+                    "Investment appraisal",
+                    "Finance and accounting strategy"
+                ]
+            }
+        },
+        {
+            "title": "A Level Chemistry (9701)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 1",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 40,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                    },
+                    "AS-Level_Structured_Questions": {
+                        "title": "AS-Level Structured Questions",
+                        "name": "Paper 2",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 60,
+                        "number_of_questions": 4,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It consists of 4 questions of multipart and distribute 60 marks according to question complexity."
+                    },
+                    "Advanced_Practical_Skills": {
+                        "title": "Advanced Practical Skills",
+                        "name": "Paper 3",
+                        "duration": "2 hours",
+                        "marks": 40,
+                        "number_of_questions": 3,
+                        "content": "Practical assessment",
+                        "paper_structure": "It consists of 3 questions of multipart and distribute 40 marks according to question complexity."
+                    }
+                },
+                "A-Level": {
+                    "A-Level_Structured_Questions": {
+                        "title": "A-Level Structured Questions",
+                        "name": "Paper 4",
+                        "duration": "2 hours",
+                        "marks": 100,
+                        "number_of_questions": 7,
+                        "content": "A Level syllabus content (with AS Level knowledge)",
+                        "paper_structure": "It consists of 7 questions mix of multipart and single part distribute 100 marks according to question complexity."
+                    },
+                    "Planning_Analysis_and_Evaluation": {
+                        "title": "Planning, Analysis, and Evaluation",
+                        "name": "Paper 5",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 30,
+                        "number_of_questions": 2,
+                        "content": "Experimental skills in planning, analysis, and evaluation",
+                        "paper_structure": "It consists of 2 questions of multipart. distribute the marks equally on both questions"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Atomic structure",
+                    "Atoms, molecules, and stoichiometry",
+                    "Chemical bonding",
+                    "States of matter",
+                    "Chemical energetics",
+                    "Electrochemistry",
+                    "Equilibria",
+                    "Reaction kinetics",
+                    "Periodic Table: chemical periodicity",
+                    "Inorganic chemistry of Group 2, Group 17, Nitrogen and Sulfur",
+                    "Organic chemistry: hydrocarbons, halogen compounds, hydroxy compounds, carbonyl compounds, carboxylic acids and derivatives, nitrogen compounds, polymerisation, organic synthesis",
+                    "Analytical techniques",
+                    "Practical skills"
+                ],
+                "A-Level": [
+                    "Further chemical energetics",
+                    "Further electrochemistry",
+                    "Further equilibria",
+                    "Further reaction kinetics",
+                    "Transition elements",
+                    "Further organic chemistry",
+                    "Advanced analytical techniques",
+                    "Advanced practical skills"
+                ]
+            }
+        },
+        {
+            "title": "A Level Computer Science (9618)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Theory_Fundamentals": {
+                        "title": "Theory Fundamentals",
+                        "name": "Paper 1",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 75,
+                        "number_of_questions": 8,
+                        "content": "AS Level syllabus content (Topics 1–8)",
+                        "paper_structure": "It consists of 8 questions mix of multipart and single part, distribute 75 marks according to question complexity."
+                    },
+                    "Fundamental_Problem_Solving_and_Programming_Skills": {
+                        "title": "Fundamental Problem-Solving and Programming Skills",
+                        "name": "Paper 2",
+                        "duration": "2 hours",
+                        "marks": 75,
+                        "number_of_questions": 4,
+                        "content": "AS Level syllabus content (Topics 9–12)",
+                        "paper_structure": "It consists of 4 questions of multipart that cover the concept of string, numeric, date and other functions and logical operator base question and distribute 75 marks according to questions complexity."
+                    }
+                },
+                "A-Level": {
+                    "Advanced_Theory": {
+                        "title": "Advanced Theory",
+                        "name": "Paper 3",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 75,
+                        "number_of_questions": 8,
+                        "content": "A Level syllabus content (Topics 13–20)",
+                        "paper_structure": "It consists of 8 questions mix of multipart and single part distribute 75 marks according to question complexity."
+                    },
+                    "Practical": {
+                        "title": "Practical",
+                        "name": "Paper 4",
+                        "duration": "2 hours 30 minutes",
+                        "marks": 75,
+                        "number_of_questions": 3,
+                        "content": "A Level syllabus content (Topics 19–20)",
+                        "paper_structure": "It consists of 3 questions of multipart. distribute 75 marks equally on 3 question  and for subpart distribute marks according subpart complexity"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Data Representation",
+                    "Multimedia - Graphics, Sound",
+                    "Compression",
+                    "Networks and the Internet",
+                    "Hardware Components",
+                    "Processor Fundamentals",
+                    "System Software",
+                    "Security and Ethics",
+                    "Databases",
+                    "Algorithm Design",
+                    "Data Structures",
+                    "Programming Basics and Constructs",
+                    "Software Development"
+                ],
+                "A-Level": [
+                    "User-defined Data Types",
+                    "File Organisation",
+                    "Floating-point Numbers",
+                    "Communication and Protocols",
+                    "Processors and Virtual Machines",
+                    "Boolean Algebra",
+                    "Operating System Principles",
+                    "Encryption and Security",
+                    "Artificial Intelligence",
+                    "Advanced Programming Paradigms",
+                    "Recursion and Algorithm Optimization"
+                ]
+            }
+        },
+        {
+            "title": "A Level Economics (9708)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 1",
+                        "duration": "1 hour",
+                        "marks": 30,
+                        "number_of_questions": 30,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It has 30 multiple-choice questions, each carrying 1 mark."
+                    },
+                    "Data_Response_and_Essays": {
+                        "title": "Data Response and Essays",
+                        "name": "Paper 2",
+                        "duration": "2 hours",
+                        "marks": 60,
+                        "number_of_questions": 3,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "The paper consists of three questions in total. The first question has six parts, with 20 marks distributed among them based on complexity. Additionally, there is one microeconomics question worth 20 marks and one macroeconomics question worth 20 marks."
+                    }
+                },
+                "A-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 3",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 30,
+                        "number_of_questions": 30,
+                        "content": "A Level syllabus content (AS Level knowledge assumed)",
+                        "paper_structure": "It has 30 multiple-choice questions, each carrying 1 mark."
+                    },
+                    "Data_Response_and_Essays": {
+                        "title": "Data Response and Essays",
+                        "name": "Paper 4",
+                        "duration": "2 hours",
+                        "marks": 60,
+                        "number_of_questions": 3,
+                        "content": "A Level syllabus content (AS Level knowledge assumed)",
+                        "paper_structure": "The paper consists of three questions in total. The first question has 4 parts, with 20 marks distributed among them based on complexity. Additionally, there is one microeconomics question worth 20 marks and one macroeconomics question worth 20 marks."
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Basic economic ideas and resource allocation",
+                    "The price system and the microeconomy",
+                    "Government microeconomic intervention",
+                    "The macroeconomy",
+                    "Government macroeconomic intervention",
+                    "International economic issues"
+                ],
+                "A-Level": [
+                    "The price system and the microeconomy (Advanced)",
+                    "Government microeconomic intervention (Advanced)",
+                    "The macroeconomy (Advanced)",
+                    "Government macroeconomic intervention (Advanced)",
+                    "International economic issues (Advanced)"
+                ]
+            }
+        },
+        {
+            "title": "A Level History (9489)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Historical_Sources": {
+                        "title": "Historical Sources",
+                        "name": "Paper 1",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 1,
+                        "content": "One document-based question from a choice of topics",
+                        "paper_structure": "The question is worth a total of 40 marks and is based on a given paragraph. Generate a paragraph as the main question and create 4 to 5 subparts, distributing the 40 marks among them based on question complexity."
+                    },
+                    "Outline_Study": {
+                        "title": "Outline Study",
+                        "name": "Paper 2",
+                        "duration": "1 hour 45 minutes",
+                        "marks": 60,
+                        "number_of_questions": 2,
+                        "content": "",
+                        "paper_structure": "The paper consists of two multi-part questions, with a total of 60 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                    }
+                },
+                "A-Level": {
+                    "Historical_Interpretations": {
+                        "title": "Historical Interpretations",
+                        "name": "Paper 3",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 1,
+                        "content": "One question on historical interpretations from a choice of topics",
+                        "paper_structure": "It consists of one main question based on a given paragraph. Generate a paragraph as the question and include 4 to 5 subparts whose answers can be derived from it, distributing 40 marks based on question complexity."
+                    },
+                    "Depth_Study": {
+                        "title": "Depth Study",
+                        "name": "Paper 4",
+                        "duration": "1 hour 45 minutes",
+                        "marks": 60,
+                        "number_of_questions": 2,
+                        "content": "Two essay questions from a depth study option",
+                        "paper_structure": "It consists of 2 question. distribute 60 marks equally"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Modern Europe, 1750–1921",
+                    "The History of the USA, 1820–1941",
+                    "International History, 1870–1945"
+                ],
+                "A-Level": [
+                    "The Origins of the First World War",
+                    "The Holocaust",
+                    "The Origins and Development of the Cold War",
+                    "European History in the Interwar Years, 1919–41",
+                    "The USA, 1944–92",
+                    "International History, 1945–92"
+                ]
+            }
+        },
+        {
+            "title": "A Level Mathematics - Further (9231)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Further_Pure_Mathematics_1": {
+                        "title": "Further Pure Mathematics 1",
+                        "name": "Paper 1",
+                        "duration": "2 hours",
+                        "marks": 75,
+                        "number_of_questions": 8,
+                        "content": "Topics from Further Pure Mathematics 1",
+                        "paper_structure": "It consists of 8 questions. Distribute 75 marks according to question complexity."
+                    },
+                    "Further_Mechanics": {
+                        "title": "Further Mechanics",
+                        "name": "Paper 3",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 50,
+                        "number_of_questions": 7,
+                        "content": "Topics from Further Mechanics",
+                        "paper_structure": "It consists of 7 questions. Distribute 50 marks according to question complexity."
+                    },
+                    "Further_Probability_and_Statistics": {
+                        "title": "Further Probability & Statistics",
+                        "name": "Paper 4",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 50,
+                        "number_of_questions": 7,
+                        "content": "Topics from Further Probability & Statistics",
+                        "paper_structure": "It consists of 7 questions. Distribute 50 marks according to question complexity."
+                    }
+                },
+                "A-Level": {
+                    "Further_Pure_Mathematics_2": {
+                        "title": "Further Pure Mathematics 2",
+                        "name": "Paper 2",
+                        "duration": "2 hours",
+                        "marks": 75,
+                        "number_of_questions": 8,
+                        "content": "Topics from Further Pure Mathematics 2",
+                        "paper_structure": "It consists of 8 questions. Distribute 75 marks according to question complexity."
+                    },
+                    "Further_Mechanics": {
+                        "title": "Further Mechanics",
+                        "name": "Paper 3",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 50,
+                        "number_of_questions": 7,
+                        "content": "Topics from Further Mechanics",
+                        "paper_structure": "It consists of 7 questions. Distribute 50 marks according to question complexity."
+                    },
+                    "Further_Probability_and_Statistics": {
+                        "title": "Further Probability & Statistics",
+                        "name": "Paper 4",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 50,
+                        "number_of_questions": 6,
+                        "content": "Topics from Further Probability & Statistics",
+                        "paper_structure": "It consists of 6 questions. Distribute 50 marks according to question complexity."
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Further Pure Mathematics 1",
+                    "Further Mechanics",
+                    "Further Probability & Statistics"
+                ],
+                "A-Level": [
+                    "Further Pure Mathematics 2",
+                    "Further Mechanics",
+                    "Further Probability & Statistics"
+                ]
+            }
+        },
+        {
+            "title": "A Level Mathematics (9709)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Pure_Mathematics_1": {
+                        "title": "Pure Mathematics 1",
+                        "name": "Paper 1",
+                        "duration": "1 hour 50 minutes",
+                        "marks": 75,
+                        "number_of_questions": 10,
+                        "content": "AS Level Pure Mathematics 1 syllabus content",
+                        "paper_structure": "It has 10 structured questions. distribute 75 marks according question complexity."
+                    },
+                    "Pure_Mathematics_2": {
+                        "title": "Pure Mathematics 2",
+                        "name": "Paper 2",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 50,
+                        "number_of_questions": 6,
+                        "content": "AS Level Pure Mathematics 2 syllabus content",
+                        "paper_structure": "It has 6 structured questions. distribute 50 marks according question complexity."
+                    },
+                    "Mechanics": {
+                        "title": "Mechanics",
+                        "name": "Paper 4",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 50,
+                        "number_of_questions": 6,
+                        "content": "AS Level Mechanics syllabus content",
+                        "paper_structure": "It has 6 structured questions. distribute 50 marks according question complexity."
+                    },
+                    "Probability_Statistics_1": {
+                        "title": "Probability & Statistics 1",
+                        "name": "Paper 5",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 50,
+                        "number_of_questions": 6,
+                        "content": "AS Level Probability & Statistics 1 syllabus content",
+                        "paper_structure": "It has 6 structured questions. distribute 50 marks according question complexity."
+                    }
+                },
+                "A-Level": {
+                    "Pure_Mathematics_3": {
+                        "title": "Pure Mathematics 3",
+                        "name": "Paper 3",
+                        "duration": "1 hour 50 minutes",
+                        "marks": 75,
+                        "number_of_questions": 9,
+                        "content": "A Level Pure Mathematics 3 syllabus content",
+                        "paper_structure": "It has 9 structured questions. distribute 75 marks according question complexity."
+                    },
+                    "Probability_Statistics_2": {
+                        "title": "Probability & Statistics 2",
+                        "name": "Paper 6",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 50,
+                        "number_of_questions": 6,
+                        "content": "A Level Probability & Statistics 2 syllabus content",
+                        "paper_structure": "It has 6 structured questions. distribute 50 marks according question complexity."
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Pure Mathematics 1",
+                    "Pure Mathematics 2",
+                    "Mechanics",
+                    "Probability & Statistics 1"
+                ],
+                "A-Level": [
+                    "Pure Mathematics 3",
+                    "Probability & Statistics 2"
+                ]
+            }
+        },
+        {
+            "title": "A Level Physics (9702)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Multiple_Choice": {
+                        "title": "Multiple Choice",
+                        "name": "Paper 1",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 40,
+                        "number_of_questions": 40,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                    },
+                    "AS-Level_Structured_Questions": {
+                        "title": "AS Level Structured Questions",
+                        "name": "Paper 2",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 60,
+                        "number_of_questions": 7,
+                        "content": "AS Level syllabus content",
+                        "paper_structure": "It consists of 7 questions mix of multipart and single part distribute 60 marks according question complexity."
+                    },
+                    "Advanced_Practical_Skills": {
+                        "title": "Advanced Practical Skills",
+                        "name": "Paper 3",
+                        "duration": "2 hours",
+                        "marks": 40,
+                        "number_of_questions": 2,
+                        "content": "Practical assessment",
+                        "paper_structure": "It consists of 2 questions of multipart, with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                    }
+                },
+                "A-Level": {
+                    "A-Level_Structured_Questions": {
+                        "title": "A Level Structured Questions",
+                        "name": "Paper 4",
+                        "duration": "2 hours",
+                        "marks": 100,
+                        "number_of_questions": 10,
+                        "content": "A Level syllabus content (with AS Level knowledge assumed)",
+                        "paper_structure": "It consists of 10 questions mix of multipart and single part. distribute 100 marks according question complexity."
+                    },
+                    "Planning_Analysis_and_Evaluation": {
+                        "title": "Planning, Analysis, and Evaluation",
+                        "name": "Paper 5",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 30,
+                        "number_of_questions": 2,
+                        "content": "Experimental skills in planning, analysis, and evaluation",
+                        "paper_structure": "It consists of 2 questions of multipart. with a total of 30 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Physical quantities and units",
+                    "Kinematics",
+                    "Dynamics",
+                    "Forces, density and pressure",
+                    "Work, energy and power",
+                    "Deformation of solids",
+                    "Waves",
+                    "Superposition",
+                    "Electricity",
+                    "D.C. circuits",
+                    "Particle physics",
+                    "Practical skills"
+                ],
+                "A-Level": [
+                    "Motion in a circle",
+                    "Gravitational fields",
+                    "Temperature",
+                    "Ideal gases",
+                    "Thermodynamics",
+                    "Oscillations",
+                    "Electric fields",
+                    "Capacitance",
+                    "Magnetic fields",
+                    "Alternating currents",
+                    "Quantum physics",
+                    "Nuclear physics",
+                    "Medical physics",
+                    "Astronomy and cosmology",
+                    "Practical skills"
+                ]
+            }
+        },
+        {
+            "title": "A Level Psychology (9990)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Approaches_Issues_and_Debates": {
+                        "title": "Approaches, Issues, and Debates",
+                        "name": "Paper 1",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 10,
+                        "content": "Core psychological approaches and key studies",
+                        "paper_structure": "It consists of 10 questions mix of multipart and single part, distribute 60 marks according question complexity."
+                    },
+                    "Research_Methods": {
+                        "title": "Research Methods",
+                        "name": "Paper 2",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 10,
+                        "content": "Research methodologies and planning studies",
+                        "paper_structure": "It consists of 10 questions mix of multipart and single part, distribute 60 marks according question complexity."
+                    }
+                },
+                "A-Level": {
+                    "Specialist_Options_Approaches_Issues_and_Debates": {
+                        "title": "Specialist Options: Approaches, Issues, and Debates",
+                        "name": "Paper 3",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 8,
+                        "content": "Two specialist psychology topics from four available options",
+                        "paper_structure": "It consists of 8 questions mix of multipart and single part, distribute 60 marks according question complexity."
+                    },
+                    "Specialist_Options_Application_and_Research_Methods": {
+                        "title": "Specialist Options: Application and Research Methods",
+                        "name": "Paper 4",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 6,
+                        "content": "Application of specialist topics and planning research studies",
+                        "paper_structure": "It consists of 6 questions mix of multipart and single part, distribute 60 marks according question complexity."
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Biological Approach",
+                    "Cognitive Approach",
+                    "Learning Approach",
+                    "Social Approach",
+                    "Research Methods"
+                ],
+                "A-Level": [
+                    "Clinical Psychology",
+                    "Consumer Psychology",
+                    "Health Psychology",
+                    "Organisational Psychology"
+                ]
+            }
+        },
+        {
+            "title": "A Level Sociology (9699)",
+            "level": "A-Level",
+            "assessment_overview": {
+                "AS-Level": {
+                    "Socialisation_Identity_and_Research_Methods": {
+                        "title": "Socialisation, Identity and Methods of Research",
+                        "name": "Paper 1",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 4,
+                        "content": "Socialisation, identity, and sociological research methods",
+                        "paper_structure": "The paper consists of four questions in total. The first three are short-answer questions, collectively worth 30 marks, with marks equally distributed among them. The fourth question is an essay question worth 30 marks, making a total of 60 marks."
+                    },
+                    "The_Family": {
+                        "title": "The Family",
+                        "name": "Paper 2",
+                        "duration": "1 hour 30 minutes",
+                        "marks": 60,
+                        "number_of_questions": 4,
+                        "content": "Theories of family, social change, roles, and relationships",
+                        "paper_structure": "The paper consists of four questions in total. The first three are short-answer questions, collectively worth 30 marks, with marks equally distributed among them. The fourth question is an essay question worth 30 marks, making a total of 60 marks."
+                    }
+                },
+                "A-Level": {
+                    "Education": {
+                        "title": "Education",
+                        "name": "Paper 3",
+                        "duration": "1 hour 15 minutes",
+                        "marks": 50,
+                        "number_of_questions": 4,
+                        "content": "The role of education, inequality, and influences on curriculum",
+                        "paper_structure": "The paper consists of four questions: 1st is short-answer question worth 10 marks, 2nd  question requiring two explanations of an issue worth 10 marks, 3rd question based on a sociological quotation where candidates provide two arguments against it worth 10 marks, and 4th is an essay question worth 20 marks, making a total of 50 marks."
+                    },
+                    "Globalisation_Media_and_Religion": {
+                        "title": "Globalisation, Media and Religion",
+                        "name": "Paper 4",
+                        "duration": "1 hour 45 minutes",
+                        "marks": 70,
+                        "number_of_questions": 2,
+                        "content": "Globalisation, media, and religion in society",
+                        "paper_structure": "It consists of 2 essay questions. distributed 70 marks equally on both questions"
+                    }
+                }
+            },
+            "subject_content": {
+                "AS-Level": [
+                    "Socialisation, Identity and Methods of Research",
+                    "The Family"
+                ],
+                "A-Level": [
+                    "Education",
+                    "Globalisation",
+                    "Media",
+                    "Religion"
+                ]
+            }
+        },
+        {
+            "title": "O Level Biology (5090)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Multiple_Choice": {
+                    "title": "Multiple Choice",
+                    "name": "Paper 1",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 40,
+                    "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                },
+                "Theory": {
+                    "title": "Theory",
+                    "name": "Paper 2",
+                    "duration": "1 hour 45 minutes",
+                    "marks": 80,
+                    "number_of_questions": 9,
+                    "paper_structure": "It consists of 9 questions mix of multipart and single part, distribute 80 marks according question complexity."
+                },
+                "Practical_Test": {
+                    "title": "Practical Test",
+                    "name": "Paper 3",
+                    "duration": "1 hour 30 minutes",
+                    "marks": 40,
+                    "number_of_questions": 2,
+                    "paper_structure": "It consists of 2 question of multipart. each carrying 20 marks."
+                },
+                "Alternative_to_Practical": {
+                    "title": "Alternative to Practical",
+                    "name": "Paper 4",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 2,
+                    "paper_structure": "It consists of 2 question of multipart. with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                }
+            },
+            "subject_content": [
+                "Cells",
+                "Classification",
+                "Movement into and out of cells",
+                "Biological molecules",
+                "Enzymes",
+                "Plant nutrition",
+                "Transport in flowering plants",
+                "Human nutrition",
+                "Respiration",
+                "Transport in humans",
+                "Disease and immunity",
+                "Excretion",
+                "Coordination and control",
+                "Development of organisms and continuity of life",
+                "Inheritance",
+                "Biotechnology and genetic modification",
+                "Relationships of organisms and ecosystems"
+            ]
+        },
+        {
+            "title": "O Level Business Studies (7115)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Short_Answer_and_Data_Response": {
+                    "title": "Short Answer and Data Response",
+                    "name": "Paper 1",
+                    "duration": "1 hour 30 minutes",
+                    "marks": 80,
+                    "number_of_questions": 4,
+                    "paper_structure": "It consists of 4 question of multipart.with a total of 80 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                },
+                "Case_Study": {
+                    "title": "Case Study",
+                    "name": "Paper 2",
+                    "duration": "1 hour 30 minutes",
+                    "marks": 80,
+                    "number_of_questions": 4,
+                    "paper_structure": "It consists of 2 question of multipart. with a total of 80 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                }
+            },
+            "subject_content": [
+                "Understanding business activity",
+                "People in business",
+                "Marketing",
+                "Operations management",
+                "Financial information and decisions",
+                "External influences on business activity"
+            ]
+        },
+        {
+            "title": "O Level Chemistry (5070)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Multiple_Choice": {
+                    "title": "Multiple Choice",
+                    "name": "Paper 1",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 40,
+                    "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                },
+                "Theory": {
+                    "title": "Theory",
+                    "name": "Paper 2",
+                    "duration": "1 hour 45 minutes",
+                    "marks": 80,
+                    "number_of_questions": 10,
+                    "paper_structure": "It consists of 10 questions mix of multipart and single part, distribute 80 marks according question complexity."
+                },
+                "Practical_Test": {
+                    "title": "Practical Test",
+                    "name": "Paper 3",
+                    "duration": "1 hour 30 minutes",
+                    "marks": 40,
+                    "number_of_questions": 2,
+                    "paper_structure": "It consists of 2 question of multipart. with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                },
+                "Alternative_to_Practical": {
+                    "title": "Alternative to Practical",
+                    "name": "Paper 4",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 2,
+                    "paper_structure": "It consists of 2 question of multipart. with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts."
+                }
+            },
+            "subject_content": [
+                "States of matter",
+                "Atomic structure and bonding",
+                "Stoichiometry and chemical calculations",
+                "Electrochemistry",
+                "Chemical energetics",
+                "Rates of reaction",
+                "Reversible reactions and equilibrium",
+                "Acids, bases, and salts",
+                "The Periodic Table",
+                "Metals and reactivity",
+                "Organic chemistry",
+                "Experimental techniques and analysis"
+            ]
+        },
+        {
+            "title": "O Level Commerce (7100)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Multiple_Choice": {
+                    "title": "Multiple Choice",
+                    "name": "Paper 1",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 40,
+                    "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions."
+                },
+                "Written": {
+                    "title": "Written",
+                    "name": "Paper 2",
+                    "duration": "2 hours",
+                    "marks": 80,
+                    "number_of_questions": 5,
+                    "paper_structure": "It consists of 5 question of multipart. distribute 80 marks according question complexity."
+                }
+            },
+            "subject_content": [
+                "Production",
+                "Retail trade",
+                "Consumer credit",
+                "Wholesale trade",
+                "Documents of trade",
+                "International trade",
+                "Advertising",
+                "Communications",
+                "Transport",
+                "Warehousing",
+                "Insurance",
+                "Banking",
+                "The business unit",
+                "Finance",
+                "Changing environment of commerce"
+            ]
+        },
+        {
+            "title": "O Level Computer Science (2210)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Computer_Systems": {
+                    "title": "Computer Systems",
+                    "name": "Paper 1",
+                    "duration": "1 hour 45 minutes",
+                    "marks": 75,
+                    "number_of_questions": 10,
+                    "paper_structure": "It consists of 10 questions mix of multipart and single part, distribute 75 marks according question complexity.",
+                    "content": "Covers topics 1–6: Data representation, transmission, hardware, software, internet, cyber security"
+                },
+                "Algorithms_Programming_and_Logic": {
+                    "title": "Algorithms, Programming and Logic",
+                    "name": "Paper 2",
+                    "duration": "1 hour 45 minutes",
+                    "marks": 75,
+                    "number_of_questions": 6,
+                    "paper_structure": "It consists of 6 question of multipart, distribute 75 marks according question complexity.",
+                    "content": "Covers topics 7–10: Algorithm design, programming, databases, Boolean logic"
+                }
+            },
+            "subject_content": [
+                "Data representation",
+                "Data transmission",
+                "Computer architecture",
+                "Input, output, and storage devices",
+                "Software and operating systems",
+                "Networking and the internet",
+                "Cyber security",
+                "Algorithm design and problem-solving",
+                "Programming concepts",
+                "Databases and SQL",
+                "Boolean logic"
+            ]
+        },
+        {
+            "title": "O Level Economics (2281)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Multiple_Choice": {
+                    "title": "Multiple Choice",
+                    "name": "Paper 1",
+                    "duration": "45 minutes",
+                    "marks": 30,
+                    "number_of_questions": 30,
+                    "paper_structure": "It has 30 multiple-choice questions, each carrying 1 mark.",
+                    "content": "Covers all syllabus topics"
+                },
+                "Structured_Questions": {
+                    "title": "Structured Questions",
+                    "name": "Paper 2",
+                    "duration": "2 hours 15 minutes",
+                    "marks": 90,
+                    "number_of_questions": 4,
+                    "paper_structure": "The paper consists of four questions in total: one data response question worth 30 marks and three essay questions, each worth 20 marks, making a total of 90 marks.",
+                    "content": "Covers all syllabus topics"
+                }
+            },
+            "subject_content": [
+                "The basic economic problem",
+                "The allocation of resources",
+                "Microeconomic decision makers",
+                "Government and the macroeconomy",
+                "Economic development",
+                "International trade and globalization"
+            ]
+        },
+        {
+            "title": "O Level English Language (1123)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Reading": {
+                    "title": "Reading",
+                    "name": "Paper 1",
+                    "duration": "2 hours",
+                    "marks": 50,
+                    "number_of_questions": 5,
+                    "paper_structure": "The paper consists of five questions, totaling 50 marks: three short-answer questions covering inference and vocabulary and don't need to refer the question that it is the inference or vocab (5 marks each), two opinion-based and passage analysis questions (5 marks each), one key points extraction question from a passage (10 marks), and one summary writing question (120–150 words) worth 15 marks.",
+                    "content": "Based on two reading texts, including comprehension and summary tasks"
+                },
+                "Writing": {
+                    "title": "Writing",
+                    "name": "Paper 2",
+                    "duration": "2 hours",
+                    "marks": 50,
+                    "number_of_questions": 2,
+                    "paper_structure": "The paper consists of two questions, totaling 50 marks: one 25-mark question requiring a 250–350 word discursive, argumentative, persuasive, or informative response based on provided texts, and one 25-mark question where candidates write a 350–450 word descriptive or narrative composition.",
+                    "content": "Candidates produce different forms of writing such as articles, reports, letters, or speeches"
+                }
+            },
+            "subject_content": [
+                "Reading comprehension and response",
+                "Summarising key ideas from texts",
+                "Understanding implicit and explicit meanings",
+                "Writing in various styles and for different audiences",
+                "Developing coherent and structured writing"
+            ]
+        },
+        {
+            "title": "O Level Mathematics - Additional (4037)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Non-Calculator": {
+                    "title": "Non-Calculator",
+                    "name": "Paper 1",
+                    "duration": "2 hours",
+                    "marks": 80,
+                    "number_of_questions": 11,
+                    "paper_structure": "It consists of 11 questions mix of multipart and single part, distribute 80 marks according question complexity.",
+                    "content": "Covers all syllabus topics"
+                },
+                "Calculator": {
+                    "title": "Calculator",
+                    "name": "Paper 2",
+                    "duration": "2 hours",
+                    "marks": 80,
+                    "number_of_questions": 12,
+                    "paper_structure": "It consists of 12 questions mix of multipart and single part, distribute 80 marks according question complexity.",
+                    "content": "Covers all syllabus topics"
+                }
+            },
+            "subject_content": [
+                "Functions",
+                "Quadratic functions",
+                "Factors of polynomials",
+                "Equations, inequalities and graphs",
+                "Simultaneous equations",
+                "Logarithmic and exponential functions",
+                "Straight-line graphs",
+                "Coordinate geometry of the circle",
+                "Circular measure",
+                "Trigonometry",
+                "Permutations and combinations",
+                "Series",
+                "Vectors in two dimensions",
+                "Calculus"
+            ]
+        },
+        {
+            "title": "O Level Mathematics D (4024)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Non-Calculator": {
+                    "title": "Non-Calculator",
+                    "name": "Paper 1",
+                    "duration": "2 hours",
+                    "marks": 100,
+                    "number_of_questions": 25,
+                    "paper_structure": "It consists of 25 questions mix of multipart and single part, distribute 100 marks according question complexity.",
+                    "content": "Covers all syllabus topics except calculator-related topics"
+                },
+                "Calculator": {
+                    "title": "Calculator",
+                    "name": "Paper 2",
+                    "duration": "2 hours",
+                    "marks": 100,
+                    "number_of_questions": 11,
+                    "paper_structure": "It consists of 11 questions mix of multipart and single par, distribute 100 marks according question complexity.",
+                    "content": "Covers all syllabus topics"
+                }
+            },
+            "subject_content": [
+                "Number, Set Notation, and Language",
+                "Squares, Cubes, and Roots",
+                "Fractions, Decimals, and Percentages",
+                "Ratio, Proportion, and Rates of Change",
+                "Algebra, Equations, and Inequalities",
+                "Graphs and Functions",
+                "Geometry, Angles, and Trigonometry",
+                "Mensuration and Vectors",
+                "Probability and Statistics"
+            ]
+        },
+        {
+            "title": "O Level Physics (5054)",
+            "level": "O-Level",
+            "assessment_overview": {
+                "Multiple_Choice": {
+                    "title": "Multiple Choice",
+                    "name": "Paper 1",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 40,
+                    "paper_structure": "It has 40 multiple-choice questions, each carrying 1 mark. Must generate 40 multiple-choice questions.",
+                    "content": "Covers all syllabus topics."
+                },
+                "Theory": {
+                    "title": "Theory",
+                    "name": "Paper 2",
+                    "duration": "1 hour 45 minutes",
+                    "marks": 80,
+                    "number_of_questions": 11,
+                    "paper_structure": "It consists of 11 questions mix of multipart and single part, distribute 80 marks according question complexity.",
+                    "content": "Covers all syllabus topics."
+                },
+                "Practical_Test": {
+                    "title": "Practical Test",
+                    "name": "Paper 3",
+                    "duration": "2 hour",
+                    "marks": 40,
+                    "number_of_questions": 2,
+                    "paper_structure": "It consists of 2 question of multipart.  with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts.",
+                    "content": "Laboratory-based practical assessment."
+                },
+                "Alternative_to_Practical": {
+                    "title": "Alternative to Practical",
+                    "name": "Paper 4",
+                    "duration": "1 hour",
+                    "marks": 40,
+                    "number_of_questions": 4,
+                    "paper_structure": "It consists of 4 question of multipart.  with a total of 40 marks evenly distributed between them. Allocate marks within each question based on the complexity of its parts.",
+                    "content": "Assessment of experimental techniques and observations."
+                }
+            },
+            "subject_content": [
+                "Motion, forces, and energy",
+                "Thermal physics",
+                "Waves",
+                "Electricity and magnetism",
+                "Nuclear physics",
+                "Space physics"
+            ]
+        }
+    ]
+}

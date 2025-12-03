@@ -1,0 +1,9 @@
+export const generatePaperApi = "/learn/generate-paper";
+export const extractAnswerApi = "/learn/extract-answer";
+export const evaluateAnswerApi = "/learn/evaluate-answer";
+export const saveSessionApi = "/learn/save";
+export const allSessionListApi = "/learn/all-session-list";
+export const saveLearnAnswerApi = "/learn/save-answer";
+export const singleLearnReportApi = "/learn/report-detail/:id";
+export const learnQuestionReportApi = "/learn/question";
+export const learnEvaluationFeedbackApi = "/learn/evaluation-feedback";

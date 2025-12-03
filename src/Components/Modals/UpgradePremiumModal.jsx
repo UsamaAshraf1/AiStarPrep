@@ -1,0 +1,54 @@
+import { LuLogOut, LuX } from "react-icons/lu";
+
+function UpgradePremiumModal({ onClose }) {
+  return (
+    <div>
+      <button
+        onClick={() => onClose()}
+        className="absolute right-4 top-4 text-gray-400 hover:text-gray-600"
+        aria-label="Close dialog"
+      >
+        <LuX className="w-6 h-6" />
+      </button>
+
+      <div className="flex gap-6">
+        {/* Icon */}
+        <div className="flex-shrink-0 w-12 h-12 bg-[#0072CF] rounded-xl flex items-center justify-center">
+          <LuLogOut className="w-6 h-6 text-white" />
+        </div>
+
+        {/* Content */}
+        <div className="flex-1 space-y-2">
+          <h2 id="modal-title" className="text-xl font-medium">
+            Upgrade to Premium for Exclusive Benefits
+          </h2>
+
+          <p className="text-[#707070]">
+            Unlock a treasure trove of in-depth, advanced courses, tutorials,
+            and lessons only available to premium members. Get started today and
+            enjoy exclusive content. Click below to subscribe now and unlock
+            your full potential!
+          </p>
+        </div>
+      </div>
+
+      {/* Buttons */}
+      <div className="flex flex-col sm:flex-row gap-3 mt-8">
+        <button
+          onClick={() => onClose()}
+          className="flex-1 px-8 py-2 border-2 border-black rounded-full text-black"
+        >
+          Cancel
+        </button>
+        <button
+          onClick={() => onClose()}
+          className="flex-1 px-8 py-2 bg-[#0072CF] text-white rounded-full"
+        >
+          Subscribe Now
+        </button>
+      </div>
+    </div>
+  );
+}
+
+export default UpgradePremiumModal;

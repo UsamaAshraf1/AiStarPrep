@@ -1,0 +1,70 @@
+import React from "react";
+import { LuX } from "react-icons/lu";
+import { useDispatch } from "react-redux";
+import {
+  deleteAllFeedbackFunApi,
+  getUserFeedback,
+} from "../../../store/others/otherServices";
+
+function DeleteAllFeedback({ onClose }) {
+  const dispatch = useDispatch();
+
+  const deleteAllFeedback = async () => {
+    try {
+      const response = dispatch(deleteAllFeedbackFunApi());
+      onClose();
+      if (response.payload.status === "success") {
+        dispatch(getUserFeedback());
+      }
+    } catch (error) {
+      console.error("Error deleting feedback", error);
+    }
+  };
+
+  
+  return (
+    <div>
+      <button
+        onClick={() => onClose()}
+        className="absolute right-4 top-4 text-gray-400 hover:text-gray-600"
+        aria-label="Close dialog"
+      >
+        <LuX className="w-6 h-6" />
+      </button>
+
+      <div className="flex gap-6">
+        {/* Content */}
+        <div className="flex-1 space-y-2">
+          <h2 id="modal-title" className="text-xl font-medium">
+            Are you sure you want to Delete All Feedbacks?
+          </h2>
+
+          <p className="text-[#707070]">
+            This action cannot be undone. Deleting this will permanently remove
+            all associated data. Please confirm if you want to proceed.
+          </p>
+        </div>
+      </div>
+
+      {/* Buttons */}
+      <div className="flex flex-col sm:flex-row gap-3 mt-8">
+        <button
+          onClick={() => onClose()}
+          className="flex-1 px-8 py-2 bg-[#D6083B] text-white rounded-full"
+        >
+          Cancel
+        </button>
+        <button
+          onClick={() => {
+            deleteAllFeedback();
+          }}
+          className="flex-1 px-8 py-2 bg-[#0072CF] text-white rounded-full"
+        >
+          Yes
+        </button>
+      </div>
+    </div>
+  );
+}
+
+export default DeleteAllFeedback;

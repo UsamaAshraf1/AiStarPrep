@@ -1,0 +1,113 @@
+{
+    "user": {
+        "menus": [
+            {
+                "title": "Dashboard",
+                "href": "/user/dashboard",
+                "icon": "FaHouse",
+                "isActive": true
+            },
+            {
+                "title": "Learn Mode",
+                "href": "/user/learn",
+                "icon": "FaClipboardList"
+            },
+            {
+                "title": "Exam Mode",
+                "href": "/user/exam",
+                "icon": "FaRegCalendarCheck"
+            },
+            {
+                "title": "Learning Analytics",
+                "href": "/user/learning-analytics",
+                "icon": "FaChartSimple"
+            },
+            {
+                "title": "Subscription",
+                "href": "/user/subscription-plans",
+                "icon": "FaRegMessage"
+            },
+            {
+                "title": "Profile Settings",
+                "href": "/user/user-profile",
+                "icon": "FaRegUser"
+            },
+            {
+                "divider": true
+            },
+            {
+                "title": "Notifications",
+                "href": "/user/notifications",
+                "icon": "FaRegBell"
+            },
+            {
+                "title": "Contact Us",
+                "href": "/user/contact-us",
+                "icon": "FaGear"
+            },
+            {
+                "title": "Refer Friends",
+                "href": "/user/referral",
+                "icon": "FaRegMessage"
+            },
+            {
+                "title": "Log out",
+                "href": "/logout",
+                "icon": "FaArrowRightFromBracket"
+            }
+        ]
+    },
+    "admin": {
+        "menus": [
+            {
+                "title": "Dashboard",
+                "href": "/admin/dashboard",
+                "icon": "FaHouse",
+                "isActive": true
+            },
+            {
+                "title": "User Management",
+                "href": "/admin/user-management",
+                "icon": "FaRegUser"
+            },
+            {
+                "title": "Upload Content",
+                "href": "/admin/upload-content",
+                "icon": "FaClipboardList"
+            },
+            {
+                "title": "Send Notifications",
+                "href": "/admin/notification-management",
+                "icon": "FaRegBell"
+            },
+            {
+                "title": "User Feedback",
+                "href": "/admin/user-feeback",
+                "icon": "FaComments"
+            },
+            {
+                "title": "Subscriber Management",
+                "href": "/admin/subscriber-management",
+                "icon": "FaBookBookmark"
+            },
+            {
+                "title": "Subscription Management",
+                "href": "/admin/subscription-management",
+                "icon": "FaRegMessage"
+            },
+            {
+                "title": "Voucher Management",
+                "href": "/admin/voucher",
+                "icon": "FaGift"
+            },
+            {
+                "divider": true
+            },
+            {
+                "title": "Log out",
+                "href": "/logout",
+                "icon": "FaArrowRightFromBracket"
+            }
+        ]
+    }
+}
