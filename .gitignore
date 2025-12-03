@@ -7,11 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies
 node_modules
-dist-ssr
-*.local
 
-# Editor directories and files
+# Build outputs
+dist-ssr
+# ← DO NOT ADD "dist" here!
+
+# Editor files
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,5 +25,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Add .env to ignore
+# Environment
 .env
